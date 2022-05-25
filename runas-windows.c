@@ -1,4 +1,4 @@
-#include <Windows.h>
+#include <windows.h>
 
 
 DWORD rust_win_runas(LPCTSTR *cmd, LPCTSTR *params, int show)
